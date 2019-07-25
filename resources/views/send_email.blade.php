@@ -17,6 +17,8 @@
     <style type="text/css">
         .box {
             width: 600px;
+            padding: 50px 20px;
+            border-radius: 25px;
             margin: 0 auto;
             border: 1px solid #ccc;
         }
